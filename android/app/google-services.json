@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "736263716631",
+    "project_id": "pickford-6c88b",
+    "storage_bucket": "pickford-6c88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736263716631:android:f8856d334d03a5eaf78152",
+        "android_client_info": {
+          "package_name": "com.pickford.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736263716631-pcpj4bd4uq80ppebt0hgfr494kbjtc34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pickford.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "736263716631-n5tofup9rhnk0s7et4m26ki5h36vf4k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgZqDSPv0GuG0sbMF6eRWVB618d-6jHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736263716631-n5tofup9rhnk0s7et4m26ki5h36vf4k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736263716631-8qorsuq1t9psug0393ljci0pmiti4gdh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pickford.oficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736263716631:android:f28590d9b941ffbff78152",
+        "android_client_info": {
+          "package_name": "com.pickford.oficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736263716631-1c1ocjn5upjgk594t3i34cmmsfb10esm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pickford.oficial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "736263716631-n5tofup9rhnk0s7et4m26ki5h36vf4k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgZqDSPv0GuG0sbMF6eRWVB618d-6jHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736263716631-n5tofup9rhnk0s7et4m26ki5h36vf4k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736263716631-8qorsuq1t9psug0393ljci0pmiti4gdh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pickford.oficial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

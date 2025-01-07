@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736263716631-8qorsuq1t9psug0393ljci0pmiti4gdh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736263716631-8qorsuq1t9psug0393ljci0pmiti4gdh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>736263716631-1c1ocjn5upjgk594t3i34cmmsfb10esm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBumZCB8gnOV8GHusOr2SaCYJoRjSGpY-Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736263716631</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pickford.oficial</string>
+	<key>PROJECT_ID</key>
+	<string>pickford-6c88b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pickford-6c88b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736263716631:ios:a4797973a4cd2dc4f78152</string>
+</dict>
+</plist>
